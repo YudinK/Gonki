@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gonki", "Gonki\Gonki.csproj", "{01ED2185-7E92-49B9-9169-8AE3E0FF72C4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01ED2185-7E92-49B9-9169-8AE3E0FF72C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01ED2185-7E92-49B9-9169-8AE3E0FF72C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01ED2185-7E92-49B9-9169-8AE3E0FF72C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01ED2185-7E92-49B9-9169-8AE3E0FF72C4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {22E7DE5B-0406-4A40-A236-5EEA1B925F5B}
+	EndGlobalSection
+EndGlobal
